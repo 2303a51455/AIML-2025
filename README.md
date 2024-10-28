@@ -17,6 +17,6 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 08](https://github.com/2303a51455/AIML-2025/blob/main/lab_8.ipynb): Implement Decision Tree Classifier using Lending Club Data
 
-[Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
+[Lab 09](https://github.com/2303a51455/AIML-2025/blob/main/lab09.ipynb): Implement Random Forest Ensemble Classifier using Lending Club Data
 
 [Lab 10](): Implement K-Means Clustering using Iris Data
